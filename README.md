@@ -38,4 +38,4 @@ npm run build && npm start
 
 
 ### Demo Image
-![Json-Generator Demo-Odrena](https://hizliresim.com/ovg0vvz)
+![Json-Generator Demo-Odrena](https://hizliresim.com/ovg0vvz.png)
